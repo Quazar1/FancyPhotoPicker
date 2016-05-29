@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="apptheme_color">#21ff47</color>
+    <color name="main_color_dark">#2C3E50</color>
+    <color name="main_color_darker">#1D2A36</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_darker_white">#FFFFF5</color>
+    <color name="color_red">#E3513A</color>
+    <color name="dark_bg">#2B2B2B</color>
+    <color name="half_transparent_black">#80000000</color>
+</resources>
